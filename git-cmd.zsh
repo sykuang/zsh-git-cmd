@@ -13,6 +13,7 @@ alias glp="git log -p"
 alias gp="git push"
 alias grv="git review"
 alias grb="git rebase -i"
+alias grbc="git rebase --continue"
 alias gre="git reset --hard"
 alias gst="git status"
 
