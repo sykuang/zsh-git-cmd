@@ -17,6 +17,7 @@ alias grb="git rebase -i"
 alias grbc="git rebase --continue"
 alias gre="git reset --hard"
 alias gst="git status"
+alias gsw="git switch"
 
 # Repo related alias
 alias r='repo'
